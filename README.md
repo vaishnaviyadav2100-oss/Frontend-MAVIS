@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 MAVIS Frontend (React.js + Tailwind CSS + Lucide Icons)
 
 **MAVIS** — *Mobility Analytics & Vehicle Intelligence System*
@@ -55,3 +56,7 @@ src/
 ├── App.jsx
 └── main.jsx
 ```
+=======
+# Frontend-MAVIS
+Frontend (React.js): User-friendly interface for vehicle registration, service bookings, repair tracking, and service history.
+>>>>>>> 2fbd02dda487a9402548c587b2e8dc0029626e03
